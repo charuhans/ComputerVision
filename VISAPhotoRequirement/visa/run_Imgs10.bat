@@ -1,0 +1,1 @@
+call run1folder.bat Imgs10 output_Imgs10.txt

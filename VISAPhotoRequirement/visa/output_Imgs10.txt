@@ -1,0 +1,14 @@
+FileName	Blur	Expos	Orient	Eyes	Mouth	Overall 
+--------------------------------------------------------- 
+0=Failed    1=Passed    N/A=Cannot detec face/eyes/mouth 
+--------------------------------------------------------- 
+Imgs10\IMG_0473.JPG	0	1	0	1	1	Failed
+Imgs10\IMG_0474.JPG	1	1	0	0	0	Failed
+Imgs10\IMG_0475.JPG	0	N/A	1	0	N/A	Failed
+Imgs10\IMG_0476.JPG	1	1	0	0	1	Failed
+Imgs10\IMG_0477.JPG	1	1	0	0	1	Failed
+Imgs10\IMG_0478.JPG	1	N/A	1	0	N/A	Failed
+Imgs10\IMG_0479.JPG	1	0	1	0	1	Failed
+Imgs10\IMG_0480.JPG	1	0	0	0	1	Failed
+Imgs10\IMG_0481.JPG	0	0	1	0	1	Failed
+Imgs10\IMG_0482.JPG	1	1	0	1	1	Failed
